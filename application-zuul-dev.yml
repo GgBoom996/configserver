@@ -10,7 +10,7 @@ zuul:
     serviceId: aigou-plat
    aigou-product: 
     path: /product/**
-    serviceId: aitou-product
+    serviceId: aigou-product
    # myUser.serviceId: user-provider #这是调用满足条件的服务名，注意要小写
    # myUser.path: /user/** #这是所有路径前的通配
   ignored-services: "*" #用*来通配符，忽略从9527端口通过服务名来调用
