@@ -1,0 +1,5 @@
+server:
+  port: 3399
+spring:
+  application:
+    name: aigou-common
